@@ -34,3 +34,7 @@ Next Steps
 •	Pull together all the data from the different sources
 •	Write a data analysis plan
 •	Data analysis
+
+##Collaborators
+
+- Harriet Okronipa
