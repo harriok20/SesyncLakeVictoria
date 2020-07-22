@@ -1,3 +1,4 @@
 #this is a test script
 
-ggplot(a)
+a<-rnorm(100)
+plot(a)
