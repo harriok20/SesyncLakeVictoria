@@ -21,22 +21,22 @@ Research Questions:
 
 Datasets
 We plan to use the following public datasets:
-•	Demographic and Health Survey (Kenya, Tanzania, Uganda) 
+1. Demographic and Health Survey (Kenya, Tanzania, Uganda) 
         o	 Drinking water module guide: https://dhsprogram.com/Data/Guide-to-DHS-Statistics/Household_Drinking_Water.htm
-•	Census data (Kenya, Tanzania, Uganda) 
-•	Inequalities Survey (for riparian counties)
+2. Census data (Kenya, Tanzania, Uganda) 
+3. Inequalities Survey (for riparian counties)
 
 Collaborators: 
-   •Horace Owiti
-   •Dorothy Birungi
-   •Harriet Okronipa
-   •Patrick Mbullo
+   1. Horace Owiti
+   2. Dorothy Birungi
+   3. Harriet Okronipa
+   4. Patrick Mbullo
 Unfortunately, Horace and Dorothy could not join us for the summer institute.
 
 Goals for this week
-    •	Pull together our dataset
-    •	Set up our project on gitHub
-    •	Practice coding in R
-    • Run a few descriptive analysis using R
+    1. Pull together our dataset
+    2. Set up our project on gitHub
+    3. Practice coding in R
+    4. Run a few descriptive analysis using R
     
     Thank you SESYNC!!!
