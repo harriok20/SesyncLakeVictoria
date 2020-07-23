@@ -1,5 +1,7 @@
 # SesyncLakeVictoria
-SESYNC summer Institute project on the perceptions of changing water quality in Lake Victoria.
+Our project is part of a bigger SESYNC pursuit aimed at examining how the consequences of eutrophication impact subsistence fishing communities around Lake Victoria
+
+Details of summer institute project:
 
 Title: 
 Riparian Households Adaptive Behavior and Perception of Changing Water Quality in Lake Victoria
@@ -14,27 +16,27 @@ Background
 
 Research Questions: 
 1.	Is there an association between water treatment practices and perception of water quality at the source?
-
 2.	What is the perceived safety status of Lake Victoria water relative to other water sources? 
 
 
 Datasets
-•	Demographic and Health Survey (Source of water, treatment, HH income and HH expenditures, education)
-o	Drinking water module guide: https://dhsprogram.com/Data/Guide-to-DHS-Statistics/Household_Drinking_Water.htm
+We plan to use the following public datasets:
+•	Demographic and Health Survey (Kenya, Tanzania, Uganda) 
+        o	 Drinking water module guide: https://dhsprogram.com/Data/Guide-to-DHS-Statistics/Household_Drinking_Water.htm
 •	Census data (Kenya, Tanzania, Uganda) 
-•	2014 Inequalities Survey (for riparian counties): source of drinking water, treatment specified; not available in Tanzania/Uganda??
+•	Inequalities Survey (for riparian counties)
 
 Collaborators: 
-	Horace Owiti
-	Dorothy Birungi
-	Harriet Okronipa
-	Patrick Mbullo
+   •Horace Owiti
+   •Dorothy Birungi
+   •Harriet Okronipa
+   •Patrick Mbullo
+Unfortunately, Horace and Dorothy could not join us for the summer institute.
 
-Next Steps 
-•	Pull together all the data from the different sources
-•	Write a data analysis plan
-•	Data analysis
-
-##Collaborators
-
-- Harriet Okronipa
+Goals for this week
+    •	Pull together our dataset
+    •	Set up our project on gitHub
+    •	Practice coding in R
+    • Run a few descriptive analysis using R
+    
+    Thank you SESYNC!!!
